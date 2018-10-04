@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rsa", "rsa\rsa.vcxproj", "{CB23E59E-AE5C-40C3-8579-81024AE22EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Debug|x64.Build.0 = Debug|x64
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Debug|x86.Build.0 = Debug|Win32
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Release|x64.ActiveCfg = Release|x64
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Release|x64.Build.0 = Release|x64
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Release|x86.ActiveCfg = Release|Win32
+		{CB23E59E-AE5C-40C3-8579-81024AE22EBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20E7F7A-7724-4E1F-AAC4-87E5D9AF2ACC}
+	EndGlobalSection
+EndGlobal
